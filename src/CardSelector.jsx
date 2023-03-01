@@ -10,7 +10,7 @@ export const CardSelector = () => {
 
   function submit() {
     if (formId) {
-      setId(formId)
+      setId(formId.toLowerCase())
     }
     if (formNodeSize) {
       setNodeSize(formNodeSize)
