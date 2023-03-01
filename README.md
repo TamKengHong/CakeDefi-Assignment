@@ -14,6 +14,9 @@ Note: The actual amount of cryptocurrency in the wallet addresses for DASH and D
 2. Find the Total AUM of an asset any cryptocurrency.
 3. Convert between USD and SGD Values.
 
+The Total USD Value is calculated by taking the total number of active nodes for that particular coin on CakeDeFi, multiplied by the nodeSize (1000 for DASH, 20000 for DFI), multipled by the usd value of 1 coin.
+The Total AUM of an asset is calculated by the total number of active nodes for that particular coin on CakeDeFi, multiplied by the nodeSize.
+
 # Tech Stack:
 - Frontend Framework: React
 - Styling: Chakra UI
