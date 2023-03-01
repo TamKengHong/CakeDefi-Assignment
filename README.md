@@ -7,7 +7,7 @@ Website link: https://cake-defi-assignment.vercel.app/
 A website for enquiring Masternode Assets for different cryptocurrencies. Uses CakeDeFi API and CoinGecko API. 
 **Works for ALL cryptocurrencies listed on CoinGecko.**
 
-Note: The actual amount of cryptocurrency in the wallet addresses for DASH and DFI are > 1000 and > 20000 respectively (I went to check the blockchain explorer), I think this may be due to the wallets receiving their rewards from staking. So to be more accurate, we can scan all the addresses of the nodes and calculate the exact amount of crypto held in their wallets. That way we do not need to specify nodeSize anymore also.
+Note: The actual amount of cryptocurrency in the wallet addresses for DASH and DFI are > 1000 and > 20000 respectively (I went to check the blockchain explorer), I think this may be due to the wallets receiving their rewards from staking. So to be more accurate, we can scan all the addresses of the nodes and calculate the exact amount of crypto held in their wallets. That way we also do not need to specify nodeSize anymore.
 
 # Features:
 1. Find the Total Active USD Value of any cryptocurrency on CakeDeFi.
