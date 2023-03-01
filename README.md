@@ -44,4 +44,4 @@ Code Design:
 4. Update to TypeScript.
 5. Testing.
 6. Mobile Improvements.
-7. Improve Styling
+7. Improve Styling.
