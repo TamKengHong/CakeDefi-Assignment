@@ -10,8 +10,8 @@ A website for enquiring Masternode Assets for different cryptocurrencies. Uses C
 Note: The actual amount of cryptocurrency in the wallet addresses for DASH and DFI are > 1000 and > 20000 respectively (I went to check the blockchain explorer), I think this may be due to the wallets receiving their rewards from staking. So to be more accurate, we can scan all the addresses of the nodes and calculate the exact amount of crypto held in their wallets. That way we also do not need to specify nodeSize anymore.
 
 # Features:
-1. Find the Total Active USD Value of any cryptocurrency on CakeDeFi.
-2. Find the Total AUM of an asset any cryptocurrency on CakeDeFi.
+1. Find the Total Active USD Value of any cryptocurrency.
+2. Find the Total AUM of an asset any cryptocurrency.
 3. Convert between USD and SGD Values.
 
 # Tech Stack:
